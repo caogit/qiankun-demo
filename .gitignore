@@ -1,0 +1,7 @@
+qiankun-base/node_modules/
+qiankun-base/dist/
+qiankun-vue/node_modules/
+qiankun-vue/dist/
+qiankun-vite/node_modules/
+qiankun-vite/dist/
+/node_modules
